@@ -30,7 +30,7 @@ This project aims to predict the probability of default on a given obligation, i
 - I have achieved the final model accuracy 81.5%
 
 ## Conclusion:
-Thus, I built the credit risk model using Python. I have tried different machine-learning algorithms, ie. Logistic regression, Random Forest, and Xgboost classifier. we have also done hyperparameter tuning and cross-validation. The final accuracy of the model we achieved was 81.5%.
+Thus, I built the credit risk model using Python. I have tried different machine-learning algorithms, i.e., Logistic regression, Random Forest, and Xgboost classifier. I have also done hyperparameter tuning and cross-validation. The final accuracy of the model we achieved was 81.5%.
 
 ## Dataset:
 - https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset 
